@@ -1,0 +1,52 @@
+Script started on 2023-03-09 14:44:23-08:00
+]0;edilin@WWWSTU-P01:~/ceng231/hw4[edilin@WWWSTU-P01 hw4]$ gcc ruol[K[K[Koulette.c -a[KWall -ansi -o roulette
+]0;edilin@WWWSTU-P01:~/ceng231/hw4[edilin@WWWSTU-P01 hw4]$ ./roulette
+Entering the casino, how much money do you have? 1000
+We are playing Roulette, odd or even bets only.
+Place your bet!
+Enter 1 for odd, 2 for even, 0 to quit: 1
+How much money you want to bet? 
+100
+You bet $100 on odd numbers 
+The winning number is 24! 
+You Lose!
+Your balance is $900!!
+Place your bet!
+Enter 1 for odd, 2 for even, 0 to quit: 2
+How much money you want to bet? 
+100
+You bet $100 on even numbers
+The winning number is 5! 
+You Lose!
+Your balance is $800!!
+Place your bet!
+Enter 1 for odd, 2 for even, 0 to quit: 2
+How much money you want to bet? 
+100
+You bet $100 on even numbers
+The winning number is 2! 
+You Win!
+Your balance is $900!!
+Place your bet!
+Enter 1 for odd, 2 for even, 0 to quit: 2 1
+How much money you want to bet? 
+500
+You bet $500 on odd numbers 
+The winning number is 9! 
+You Win!
+Your balance is $1400!!
+Place your bet!
+Enter 1 for odd, 2 for even, 0 to quit: 2
+How much money you want to bet? 
+300   1000
+You bet $1000 on even numbers
+The winning number is 26! 
+You Win!
+Your balance is $2400!!
+Place your bet!
+Enter 1 for odd, 2 for even, 0 to quit: 0
+You exit the casino with $2400 
+]0;edilin@WWWSTU-P01:~/ceng231/hw4[edilin@WWWSTU-P01 hw4]$ exit
+exit
+
+Script done on 2023-03-09 14:45:40-08:00
