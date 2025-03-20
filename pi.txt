@@ -1,0 +1,6 @@
+To start this assignment, I had to first include an extra math.h because it made it able to use the sqrt function.  I then defined all of my variables and asked the user for both the radius and the number of points they want to add.  I then created a for loop to take the number of points and calculate whether the point is in or out.  In this for loop I calculated for x, y, and the distance and then printed the x and y.  I then created an if statement to show whether it is in or out and then print that.  I then printed the summary.
+
+Bonus:
+I think that Figure 2 can be used to calculate pi. Since the quadrant has a quarter of the area of the circle with a radius equal to the side length of the square, its area is πr^2/4, where r is the radius. Therefore, the value of π can be estimated as four times the ratio of the number of points inside the quadrant to the total number of points generated.  This just means that you just need to mutiply the ratio by 4 before comparing the distance and ratio.  Theoretically, this should give a good estimate of pi.
+
+ 
