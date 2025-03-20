@@ -1,0 +1,51 @@
+Script started on 2023-03-09 14:47:24-08:00
+]0;edilin@WWWSTU-P01:~/ceng231/hw4[edilin@WWWSTU-P01 hw4]$ exit./roulettegcc roulette.c -Wall -ansi -o roulette
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kgcc roulette.c -Wall -ansi -o roulette
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kvi pi.txtls[Kcd hw4ceng231[4Phw4ceng231gcc -ansi -Wall pi.c -o pi [C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpi.c -ansi[K[K[K[KWall -ansi -o pi
+]0;edilin@WWWSTU-P01:~/ceng231/hw4[edilin@WWWSTU-P01 hw4]$ ./pi
+Enter the radius of circle: 5
+Enter the number of points: 35
+Point No.1(x=3.249996,y=4.013853): IN
+Point No.2(x=0.526914,y=0.743942): IN
+Point No.3(x=0.960457,y=3.739262): IN
+Point No.4(x=3.436524,y=0.575340): OUT
+Point No.5(x=0.448270,y=2.491611): IN
+Point No.6(x=3.069268,y=4.932955): IN
+Point No.7(x=0.484094,y=1.463088): IN
+Point No.8(x=3.339200,y=0.568465): OUT
+Point No.9(x=0.296500,y=3.138468): IN
+Point No.10(x=0.831733,y=2.912863): IN
+Point No.11(x=4.375841,y=2.247051): OUT
+Point No.12(x=4.196337,y=4.244489): IN
+Point No.13(x=1.103804,y=4.940883): IN
+Point No.14(x=1.782519,y=4.309234): IN
+Point No.15(x=2.163148,y=3.941715): IN
+Point No.16(x=0.431650,y=0.413145): IN
+Point No.17(x=2.955569,y=0.958564): OUT
+Point No.18(x=1.157087,y=3.916026): IN
+Point No.19(x=4.697826,y=4.593611): IN
+Point No.20(x=4.491366,y=0.146096): OUT
+Point No.21(x=2.085222,y=2.560635): IN
+Point No.22(x=0.079051,y=2.569316): IN
+Point No.23(x=4.023723,y=3.418252): IN
+Point No.24(x=3.137781,y=4.320223): IN
+Point No.25(x=1.556719,y=3.969513): IN
+Point No.26(x=2.233086,y=0.932560): IN
+Point No.27(x=1.216564,y=1.429424): IN
+Point No.28(x=0.177049,y=2.320368): IN
+Point No.29(x=1.370307,y=1.959568): IN
+Point No.30(x=1.629603,y=3.533455): IN
+Point No.31(x=0.901284,y=2.061253): IN
+Point No.32(x=3.946600,y=3.856852): IN
+Point No.33(x=3.019817,y=0.103687): OUT
+Point No.34(x=2.772878,y=2.717643): IN
+Point No.35(x=4.697297,y=2.264245): OUT
+
+/******In Summary******/
+Points within circle areas: 28
+Points out of circle areas: 7
+Pi = 3.200000
+]0;edilin@WWWSTU-P01:~/ceng231/hw4[edilin@WWWSTU-P01 hw4]$ exit
+exit
+
+Script done on 2023-03-09 14:48:05-08:00
